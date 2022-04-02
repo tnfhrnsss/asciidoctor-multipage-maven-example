@@ -1,4 +1,4 @@
-# aciidoctor-multipage-maven
+# asciidoctor-multipage-maven
 
 asciidoctor-multipage-maven is a sample asciidoctor maven personal project.
 
