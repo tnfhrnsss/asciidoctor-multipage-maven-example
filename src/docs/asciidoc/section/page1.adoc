@@ -1,0 +1,5 @@
+= Page 1
+
+include::../section/page1/page1_1.adoc[opts=optional]
+include::../section/page1/page1_2.adoc[opts=optional]
+

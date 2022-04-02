@@ -1,0 +1,21 @@
+:doctype: book
+:icons: font
+:iconfont-remote!:
+:webfonts!:
+:toc: left
+:toc-title:
+:toclevels: 3
+:sectlinks:
+:docinfo1:
+:multipage-level: 1
+
+= Asciidoctor-multipage Maven Example
+
+This is a example project for multi page using asciidoctor thirdparty plugin.
+
+include::section/page1.adoc[leveloffset=+1]
+include::section/page2.adoc[leveloffset=+1]
+
+
+
+
